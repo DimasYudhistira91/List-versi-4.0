@@ -1,0 +1,90 @@
+body {
+    background-image: url(/img/mak-4dA7DiHPrp4-unsplash.jpg);
+    background-size: cover;
+}
+
+* {
+    margin-bottom: 20px !important;
+}
+
+#jam-digital {
+  font-size: 80px;
+  text-align: center;
+  color: white;
+  width: 350px;
+  height: auto;
+  margin: auto;
+}
+
+.container {
+  margin: auto;
+  border: 1px solid white;
+  border-radius: 3%;
+  height: auto;
+  width: 500px;
+  margin-top: 30px;
+}
+
+h1 {
+  color: white;  
+  text-align: center;
+  margin-top: 10px;
+}
+
+#sub {
+  color: white;
+  text-align: center;
+  margin-top: -10px;
+}
+
+input {
+  margin-top: 20px;
+  margin-left: 34px;
+  width: 400px;
+  height: 45px;
+  text-align: center;
+  opacity: 0.5;
+}
+
+#simpan {
+  width: 100px;
+  margin-left: 180px;
+  margin-top: -15px;
+}
+
+hr {
+  border: 0.5px solid white;
+  margin-top: 0px;
+}
+
+ul {
+  margin-bottom: 30px;
+}
+
+li {
+  height: 45px;
+  width: 390px;
+  color: white;
+  list-style-type: none;
+  font-size: 20px;
+}
+
+.delete {
+  margin-top: -4px;
+  float: right;
+}
+
+li hr {
+  margin-top: 15px;
+}
+
+/* #tanggal {
+  float: right;
+  font-size: 30px;
+  text-align: center;
+  color: white;
+  border: 3px solid lightblue;
+  border-radius: 5%;
+  width: 350px;
+  height: auto;
+} */
